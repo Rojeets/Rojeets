@@ -1,8 +1,6 @@
-
 <div align="center">
 
 # 👋 Hey, I'm **Rojit Pokharel**
-
 **`Code is my canvas, curiosity is my compass`**
 
 <a href="https://github.com/rojeets">
@@ -33,14 +31,11 @@
 name: Rojit Pokharel
 alias: Rojeets
 role: Full-Stack Developer | Backend Specialist
-vibe: Jack-of-all-trades, master of... many? 😄
-
 superpowers:
   - Building scalable backend architectures
   - Crafting dynamic frontend experiences
   - Computer vision & AI pipelines
   - Enterprise Laravel & Django systems
-
 passion: Solving complex problems through clean, maintainable code
 motto:  "There's always one more thing to learn"
 ```
@@ -56,7 +51,6 @@ I live at the intersection of **backend engineering**, **frontend craftsmanship*
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -73,6 +67,19 @@ I live at the intersection of **backend engineering**, **frontend craftsmanship*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojeets&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojeets&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -115,7 +122,7 @@ I don't believe in boxing myself into one lane. Backend, frontend, infrastructur
 [<img src="https://img.shields.io/badge/GitHub-@rojeets-181717?style=for-the-badge&logo=github" alt="GitHub"/>](https://github.com/rojeets)
 [<img src="https://img.shields.io/badge/LinkedIn-Rojit%20Pokharel-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>](https://www.linkedin.com/in/rojit-pokharel/)
 [<img src="https://img.shields.io/badge/GitLab-@rojeets-FC6D26?style=for-the-badge&logo=gitlab" alt="GitLab"/>](https://gitlab.com/rojeets)
-[<img src="https://img.shields.io/badge/Portfolio-rorojitpokharel.com.np-FF7139?style=for-the-badge&logo=firefox" alt="Portfolio"/>](https://portfolio.rojitpokharel.com.np/)
+[<img src="https://img.shields.io/badge/Portfolio-rojitpokharel.com.np-FF7139?style=for-the-badge&logo=firefox" alt="Portfolio"/>](https://portfolio.rojitpokharel.com.np/)
 
 <br/>
 
