@@ -78,18 +78,6 @@ I live at the intersection of **backend engineering**, **frontend craftsmanship*
 
 ---
 
-## 📊 GitHub Pulse
-
-<div align="center">
-
-| Streak | Stats | Top Languages |
-|--------|-------|---------------|
-| <a href="https://github.com/rojeets"><img src="https://streak-stats.demolab.com?user=rojeets&theme=github-dark-blue&hide_border=true&border_radius=8" width="100%" /></a> | <a href="https://github.com/rojeets"><img src="https://github-readme-stats.vercel.app/api?username=rojeets&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true" width="100%" /></a> | <a href="https://github.com/rojeets"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojeets&layout=compact&theme=github_dark&hide_border=true&border_radius=8" width="100%" /></a> |
-
-</div>
-
----
-
 ## 🧭 Currently Exploring
 
 <div align="center">
